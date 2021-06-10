@@ -1,0 +1,42 @@
+/* .container-fluid{
+    height: 70px;
+} */
+
+.navbar{
+    background-color: white;
+    -webkit-box-shadow: 0 4px 6px -6px #222;
+    -moz-box-shadow: 0 4px 6px -6px #222;
+    box-shadow: 0 4px 6px -6px #222;
+}
+.btn{
+    box-shadow: none;
+}
+.search-input{
+    width: 315px;
+    font-size: 14px;
+    height: auto;
+    border-radius: 25px;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: none;
+}
+
+/* enable absolute positioning */
+.inner-addon { 
+    position: relative; 
+}
+
+/* style icon */
+.inner-addon .fas {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .fas  { left:  0px;}
+.right-addon .fas { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }

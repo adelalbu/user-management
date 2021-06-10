@@ -1,0 +1,155 @@
+<nav class="navbar mb-3">
+  <div class="container-fluid">
+    <div class="row w-100">
+     
+        <div class=" col-lg-1 col-sm-2 my-2">
+          <img
+            [src]="'https://pbs.twimg.com/profile_images/547333499485581312/5t981GuL.jpeg'"
+            class="mr-2"
+            style="width: 48px;"
+          />
+          
+        </div>
+
+        <input
+            class="form-control  search-input col-lg-3 col-sm-10 my-2"
+            type="text"
+            name="searchTerm"
+            placeholder="Search users"
+            [(ngModel)]="service.searchTerm"
+          />
+
+          <div class="col-lg-6 d-flex align-items-center justify-content-lg-start col-sm-8 justify-content-sm-end my-2">
+            <div ngbDropdown class=" ">
+              <button
+                class="btn btn-outline-primary mx-2"
+                id="dropdownDepFilter"
+                ngbDropdownToggle
+              >
+                Department filter
+              </button>
+              <div ngbDropdownMenu aria-labelledby="dropdownDepFilter">
+                <button ngbDropdownItem (click)="resetFilter()">
+                  All
+                </button>
+        
+                <button ngbDropdownItem (click)="selectDepartment('Informatica')">
+                  Informatica
+                </button>
+        
+                <button ngbDropdownItem (click)="selectDepartment('Matematica')">
+                  Matematica
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Management')">
+                  Management
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Finante')">
+                  Finante
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Design si Arte Aplicate')"
+                >
+                  Design si Arte Aplicate
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Contabilitate si Audit')"
+                >
+                  Contabilitate si Audit
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Sociologie')">
+                  Sociologie
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Sisteme Informationale pentru afaceri')"
+                >
+                  Sisteme Informationale pentru afaceri
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Studii Romanesti')">
+                  Studii Romanesti
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Marketing si relatii economice internationale')"
+                >
+                  Marketing si relatii economice internationale
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Limbi si literaturi moderne')"
+                >
+                  Limbi si literaturi moderne
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Stiinte Politice')">
+                  Stiinte Politice
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Fizica')">
+                  Fizica
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Biologie-Chimie')">
+                  Biologie-Chimie
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Geografie')">
+                  Geografie
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Arte Vizuale')">
+                  Arte vizuale
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Kinetoterapie si Motricitate Speciala')"
+                >
+                  Kinetoterapie si Motricitate Speciala
+                </button>
+                <button
+                  ngbDropdownItem
+                  (click)="selectDepartment('Educatie Fizica si Sportiva')"
+                >
+                  Educatie Fizica si Sportiva
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('Muzica- Actorie')">
+                  Muzica- Actorie
+                </button>
+                <button ngbDropdownItem (click)="selectDepartment('DPPD')">
+                  DPPD
+                </button>
+              </div>
+            </div>
+
+            <div ngbDropdown class="">
+              <button
+                class="btn btn-outline-primary mx-2"
+                id="dropdownDepFilter"
+                ngbDropdownToggle
+              >
+                Status Filter
+              </button>
+              <div ngbDropdownMenu aria-labelledby="dropdownDepFilter">
+                <button ngbDropdownItem (click)="resetFilter()">
+                  All
+                </button>
+                <button ngbDropdownItem (click)="selectStatus(1)">
+                  Active
+                </button>
+                <button ngbDropdownItem (click)="selectStatus(0)">
+                  Inactive
+                </button>
+              </div>
+            </div>
+          </div>
+        
+
+      <div class="col-lg-2 col-sm-4 d-flex justify-content-lg-end align-items-center justify-content-sm-end my-2">
+            <img
+              [src]="'https://blog.cpanel.com/wp-content/uploads/2019/08/user-01.png'"
+              class="mr-2"
+              style="width: 25px;"/>
+            My Account
+      </div>
+    </div>
+
+    
+  </div>
+</nav>
