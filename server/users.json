@@ -1,0 +1,5317 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Daniel",
+      "surname": "Pop",
+      "name": "POP DANIEL",
+      "email": "DANIEL.POP@E-UVT.RO",
+      "urlGoogleScholar": "O5nBSCAAAAAJ",
+      "department": {
+        "id": 1,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": "Informatica",
+      "domainId": 2,
+      "permissions": 255,
+      "status": 0
+    },
+    {
+      "id": 2,
+      "firstname": "Dana",
+      "surname": "Petcu",
+      "name": "PETCU DANA",
+      "email": "DANA.PETCU@E-UVT.RO",
+      "urlGoogleScholar": "7_-VBTkAAAAJ",
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": "Informatica",
+      "domainId": 2,
+      "permissions": 1,
+      "status": "0"
+    },
+    {
+      "id": 5184,
+      "firstname": "VIOREL",
+      "surname": "NEGRU",
+      "name": "NEGRU VIOREL",
+      "email": "VIOREL.NEGRU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": "1"
+    },
+    {
+      "id": 5185,
+      "firstname": "IOAN",
+      "surname": "PETRISOR",
+      "name": "PETRISOR IOAN",
+      "email": "IOAN.PETRISOR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5186,
+      "firstname": "VICTORIA",
+      "surname": "SEULEAN",
+      "name": "SEULEAN VICTORIA",
+      "email": "VICTORIA.SEULEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5187,
+      "firstname": "DAN RADU",
+      "surname": "MOGA",
+      "name": "MOGA DAN RADU",
+      "email": "DAN.MOGA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5188,
+      "firstname": "MARIA",
+      "surname": "MORARU",
+      "name": "MORARU MARIA",
+      "email": "MARIA.MORARU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5151,
+        "name": "Contabilitate si Audit",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5195,
+      "firstname": "DOREL",
+      "surname": "MIHET",
+      "name": "MIHET DOREL",
+      "email": "DOREL.MIHET@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5196,
+      "firstname": "BRIGITTA",
+      "surname": "IELICS",
+      "name": "IELICS BRIGITTA",
+      "email": "BRIGITTA.IELICS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5197,
+      "firstname": "RODICA DOINA",
+      "surname": "DANAIATA",
+      "name": "DANAIATA RODICA DOINA",
+      "email": "DOINA.DANAIATA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5198,
+      "firstname": "MARIA",
+      "surname": "SUBI",
+      "name": "SUBI MARIA",
+      "email": "MARIA.SUBI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5199,
+      "firstname": "DANIELA ELENA",
+      "surname": "STANCIU",
+      "name": "STANCIU DANIELA ELENA",
+      "email": "DANIELA.STANCIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5200,
+      "firstname": "NICOLETA",
+      "surname": "FARCANE",
+      "name": "FARCANE NICOLETA",
+      "email": "NICOLETA.FARCANE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5151,
+        "name": "Contabilitate si Audit",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5201,
+      "firstname": "FLORIN SABIN",
+      "surname": "FOLTEAN",
+      "name": "FOLTEAN FLORIN SABIN",
+      "email": "FLORIN.FOLTEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5202,
+      "firstname": "COSTINEL",
+      "surname": "DOBRE",
+      "name": "DOBRE COSTINEL",
+      "email": "COSTINEL.DOBRE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5203,
+      "firstname": "CALIN",
+      "surname": "HURBEAN",
+      "name": "HURBEAN CALIN",
+      "email": "CALIN.HURBEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5204,
+      "firstname": "LUMINITA",
+      "surname": "FRENTIU",
+      "name": "FRENTIU LUMINITA",
+      "email": "LUMINITA.FRENTIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5205,
+      "firstname": "PAUL",
+      "surname": "KUN",
+      "name": "KUN PAUL",
+      "email": "PAUL.KUN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5153,
+        "name": "Stiinte Politice",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5206,
+      "firstname": "RESIGA DANIELA",
+      "surname": "SUSAN",
+      "name": "SUSAN RESIGA DANIELA",
+      "email": "DANIELA.RESIGA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5207,
+      "firstname": "MIRCEA",
+      "surname": "SELEGEAN",
+      "name": "SELEGEAN MIRCEA",
+      "email": "MIRCEA.SELEGEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5208,
+      "firstname": "MIRCEA",
+      "surname": "VOICULESCU",
+      "name": "VOICULESCU MIRCEA",
+      "email": "MIRCEA.VOICULESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5209,
+      "firstname": "VASILE",
+      "surname": "OSTAFE",
+      "name": "OSTAFE VASILE",
+      "email": "VASILE.OSTAFE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5210,
+      "firstname": "CRISTIAN DANIEL",
+      "surname": "SIDA",
+      "name": "SIDA CRISTIAN DANIEL",
+      "email": "CRISTIAN.SIDA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5211,
+      "firstname": "PETRU",
+      "surname": "URDEA",
+      "name": "URDEA PETRU",
+      "email": "PETRU.URDEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5212,
+      "firstname": "VICTORIA STANA",
+      "surname": "IORDAN",
+      "name": "IORDAN VICTORIA STANA",
+      "email": "VICTORIA.IORDAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5213,
+      "firstname": "ALEXANDRU",
+      "surname": "BUGLEA",
+      "name": "BUGLEA ALEXANDRU",
+      "email": "ALEXANDRU.BUGLEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5214,
+      "firstname": "SORIN",
+      "surname": "CIUTACU",
+      "name": "CIUTACU SORIN",
+      "email": "SORIN.CIUTACU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5215,
+      "firstname": "CORNELIA DRAGA",
+      "surname": "VIZMAN",
+      "name": "VIZMAN CORNELIA DRAGA",
+      "email": "CORNELIA.VIZMAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 0
+    },
+    {
+      "id": 5216,
+      "firstname": "DOREL",
+      "surname": "BARBU",
+      "name": "BARBU DOREL",
+      "email": "DOREL.BARBU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5217,
+      "firstname": "MARIANA VALENTINA",
+      "surname": "BARZU",
+      "name": "BARZU MARIANA VALENTINA",
+      "email": "MARIANA.BARZU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5154,
+        "name": "Kinetoterapie si Motricitate Speciala",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 0
+    },
+    {
+      "id": 5218,
+      "firstname": "MIHAELA LIANA",
+      "surname": "FAUR",
+      "name": "FAUR MIHAELA LIANA",
+      "email": "MIHAELA.FAUR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5219,
+      "firstname": "FELICIAN",
+      "surname": "ROSCA",
+      "name": "ROSCA FELICIAN",
+      "email": "FELICIAN.ROSCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5220,
+      "firstname": "DORU MARCEL",
+      "surname": "BALTATEANU",
+      "name": "BALTATEANU DORU MARCEL",
+      "email": "DORU.BALTATEANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5221,
+      "firstname": "MIHAELA",
+      "surname": "MUNTEAN",
+      "name": "MUNTEAN MIHAELA",
+      "email": "MIHAELA.MUNTEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5222,
+      "firstname": "MIHAIL",
+      "surname": "LUNGU",
+      "name": "LUNGU MIHAIL",
+      "email": "MIHAIL.LUNGU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5223,
+      "firstname": "SORIN IRINEL",
+      "surname": "GRADINARU",
+      "name": "GRADINARU SORIN IRINEL",
+      "email": "SORIN.GRADINARU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5224,
+      "firstname": "DANA CARLETA",
+      "surname": "CRACIUN",
+      "name": "CRACIUN DANA CARLETA",
+      "email": "CRACIUN.DANA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5225,
+      "firstname": "LIANA",
+      "surname": "STEFAN",
+      "name": "STEFAN LIANA",
+      "email": "LIANA.STEFAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5226,
+      "firstname": "NICOLAE",
+      "surname": "POPA",
+      "name": "POPA NICOLAE",
+      "email": "NICOLAE.POPA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5227,
+      "firstname": "LUCIAN PAVEL",
+      "surname": "GLIGOR",
+      "name": "GLIGOR LUCIAN PAVEL",
+      "email": "LUCIAN.GLIGOR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5228,
+      "firstname": "MARCEL",
+      "surname": "BREILEAN",
+      "name": "BREILEAN MARCEL",
+      "email": "MARCEL.BREILEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5229,
+      "firstname": "VASILE GHEORGHE",
+      "surname": "POPOVICI",
+      "name": "POPOVICI VASILE GHEORGHE",
+      "email": "VASILE.POPOVICI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5230,
+      "firstname": "GABRIELA",
+      "surname": "RADU",
+      "name": "RADU GABRIELA",
+      "email": "GABRIELA.RADU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5231,
+      "firstname": "MARIANA",
+      "surname": "PREDISCAN",
+      "name": "PREDISCAN MARIANA",
+      "email": "MARIANA.PREDISCAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5232,
+      "firstname": "MIRCEA",
+      "surname": "MIHAIES",
+      "name": "MIHAIES MIRCEA",
+      "email": "MIRCEA.MIHAIES@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5233,
+      "firstname": "MIHAI-SERBAN",
+      "surname": "UNGUREANU-PAMFIL",
+      "name": "UNGUREANU-PAMFIL MIHAI-SERBAN",
+      "email": "MIHAI.UNGUREANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5234,
+      "firstname": "DAN",
+      "surname": "COMANESCU",
+      "name": "COMANESCU DAN",
+      "email": "DAN.COMANESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5235,
+      "firstname": "DIANA CLAUDIA",
+      "surname": "SALA",
+      "name": "SALA DIANA CLAUDIA",
+      "email": "DIANA.SALA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5236,
+      "firstname": "MOISIE MIHAI",
+      "surname": "BOLEANTU",
+      "name": "BOLEANTU MOISIE MIHAI",
+      "email": "MOISIE.BOLEANTU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5145,
+        "name": "Economie si modelare economica",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5237,
+      "firstname": "CARMEN",
+      "surname": "CORDUNEANU",
+      "name": "CORDUNEANU CARMEN",
+      "email": "CARMEN.CORDUNEANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5238,
+      "firstname": "VIOLETA",
+      "surname": "SACUI",
+      "name": "SACUI VIOLETA",
+      "email": "VIOLETA.SACUI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5239,
+      "firstname": "LAURA MARIANA",
+      "surname": "CISMAS",
+      "name": "CISMAS LAURA MARIANA",
+      "email": "LAURA.CISMAS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5145,
+        "name": "Economie si modelare economica",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5240,
+      "firstname": "TIBERIU SILVIU",
+      "surname": "PUTA",
+      "name": "PUTA TIBERIU SILVIU",
+      "email": "TIBERIU.PUTA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5241,
+      "firstname": "DUMITRU",
+      "surname": "VULCANOV",
+      "name": "VULCANOV DUMITRU",
+      "email": "DUMITRU.VULCANOV@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5242,
+      "firstname": "FELIX-IOSIF",
+      "surname": "IACOB",
+      "name": "IACOB FELIX-IOSIF",
+      "email": "FELIX.IACOB@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5243,
+      "firstname": "LAURA",
+      "surname": "CHEIE",
+      "name": "CHEIE LAURA",
+      "email": "LAURA.CHEIE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5244,
+      "firstname": "REMUS",
+      "surname": "CRETAN",
+      "name": "CRETAN REMUS",
+      "email": "REMUS.CRETAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5245,
+      "firstname": "SANDA LIGIA",
+      "surname": "CRISTEA",
+      "name": "CRISTEA SANDA LIGIA",
+      "email": "SANDA.CRISTEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5246,
+      "firstname": "RENATA-DANA",
+      "surname": "NITU-ANTONIE",
+      "name": "NITU-ANTONIE RENATA-DANA",
+      "email": "RENATA.NITU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5247,
+      "firstname": "MIHAI",
+      "surname": "CHIS",
+      "name": "CHIS MIHAI",
+      "email": "MIHAI.CHIS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5248,
+      "firstname": "CORINA MARINA",
+      "surname": "PANTEA",
+      "name": "PANTEA CORINA MARINA",
+      "email": "CORINA.PANTEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5154,
+        "name": "Kinetoterapie si Motricitate Speciala",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5249,
+      "firstname": "CAMIL VALERIU",
+      "surname": "PETRESCU",
+      "name": "PETRESCU CAMIL VALERIU",
+      "email": "CAMIL.PETRESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5250,
+      "firstname": "COSMIN",
+      "surname": "CRUCEAN",
+      "name": "CRUCEAN COSMIN",
+      "email": "COSMIN.CRUCEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5251,
+      "firstname": "PAUL ROMEO",
+      "surname": "MARGEA",
+      "name": "MARGEA PAUL ROMEO",
+      "email": "PAUL.MARGEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5252,
+      "firstname": "IOANA LAURA",
+      "surname": "VID",
+      "name": "VID IOANA LAURA",
+      "email": "IOANA.VID@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5150,
+        "name": "Filosofie si Stiintele Comunicarii",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5253,
+      "firstname": "ADRIAN CONSTANTIN",
+      "surname": "NAGEL",
+      "name": "NAGEL ADRIAN CONSTANTIN",
+      "email": "ADRIAN.NAGEL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5154,
+        "name": "Kinetoterapie si Motricitate Speciala",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5254,
+      "firstname": "NISTOR",
+      "surname": "NICOLAEVICI",
+      "name": "NICOLAEVICI NISTOR",
+      "email": "NISTOR.NICOLAEVICI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5255,
+      "firstname": "NADIA DANIELA",
+      "surname": "OBROCEA",
+      "name": "OBROCEA NADIA DANIELA",
+      "email": "NADIA.OBROCEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5256,
+      "firstname": "TEODOR MIRCEA",
+      "surname": "ALEXIU",
+      "name": "ALEXIU TEODOR MIRCEA",
+      "email": "TEODOR.ALEXIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5257,
+      "firstname": "DOREL",
+      "surname": "MATES",
+      "name": "MATES DOREL",
+      "email": "DOREL.MATES@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5151,
+        "name": "Contabilitate si Audit",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5258,
+      "firstname": "LIANA",
+      "surname": "SON",
+      "name": "SON LIANA",
+      "email": "LIANA.SON@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5259,
+      "firstname": "GABRIEL RAUL",
+      "surname": "KOHN",
+      "name": "KOHN GABRIEL RAUL",
+      "email": "GABRIEL.KOHN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5260,
+      "firstname": "RODICA-ORTENSIA",
+      "surname": "MICLEA",
+      "name": "MICLEA RODICA-ORTENSIA",
+      "email": "RODICA.MICLEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5261,
+      "firstname": "EUGEN",
+      "surname": "BOTA",
+      "name": "BOTA EUGEN",
+      "email": "EUGEN.BOTA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5262,
+      "firstname": "BOGDAN ION",
+      "surname": "BOLDEA",
+      "name": "BOLDEA BOGDAN ION",
+      "email": "BOGDAN.BOLDEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5263,
+      "firstname": "IONUT",
+      "surname": "GOLET",
+      "name": "GOLET IONUT",
+      "email": "IONUT.GOLET@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5264,
+      "firstname": "MONICA",
+      "surname": "BOLDEA",
+      "name": "BOLDEA MONICA",
+      "email": "MONICA.BOLDEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5265,
+      "firstname": "FLORIN ION",
+      "surname": "MANGU",
+      "name": "MANGU FLORIN ION",
+      "email": "FLORIN.MANGU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5178,
+        "name": "Drept Privat",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5266,
+      "firstname": "MELINDA",
+      "surname": "DINCA",
+      "name": "DINCA MELINDA",
+      "email": "MELINDA.DINCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5267,
+      "firstname": "ATALIA",
+      "surname": "ONITIU",
+      "name": "ONITIU ATALIA",
+      "email": "ATALIA.ONITIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5268,
+      "firstname": "ADRIAN",
+      "surname": "PASCUTA",
+      "name": "PASCUTA ADRIAN",
+      "email": "ADRIAN.PASCUTA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5269,
+      "firstname": "RAMONA ALICE",
+      "surname": "BRAN",
+      "name": "BRAN RAMONA ALICE",
+      "email": "RAMONA.BRAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5176,
+        "name": "Psihologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5270,
+      "firstname": "DIANA ORNELLA",
+      "surname": "ANDREESCU",
+      "name": "ANDREESCU DIANA ORNELLA",
+      "email": "DIANA.ANDREESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5271,
+      "firstname": "CRISTINA",
+      "surname": "DAJU",
+      "name": "DAJU CRISTINA",
+      "email": "CRISTINA.DAJU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5272,
+      "firstname": "DUMITRU REMUS",
+      "surname": "ROTARU",
+      "name": "ROTARU DUMITRU REMUS",
+      "email": "DUMITRU.ROTARU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5273,
+      "firstname": "IOANA ANCUTA",
+      "surname": "FRANT",
+      "name": "FRANT IOANA ANCUTA",
+      "email": "ANCA.FRANT@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5274,
+      "firstname": "CRISTINA LAVINIA",
+      "surname": "CEAPA",
+      "name": "CEAPA CRISTINA LAVINIA",
+      "email": "CRISTINA.CEAPA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5275,
+      "firstname": "ABA CARINA",
+      "surname": "PARLOG",
+      "name": "PARLOG ABA CARINA",
+      "email": "ABA.PARLOG@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5276,
+      "firstname": "AURELIAN",
+      "surname": "CRACIUNESCU",
+      "name": "CRACIUNESCU AURELIAN",
+      "email": "AURELIAN.CRACIUNESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5277,
+      "firstname": "LILIANA",
+      "surname": "POPA",
+      "name": "POPA LILIANA",
+      "email": "LILIANA.POPA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5278,
+      "firstname": "DAN IULIAN",
+      "surname": "TOMA",
+      "name": "TOMA DAN IULIAN",
+      "email": "DAN.TOMA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5279,
+      "firstname": "MARIAN VICTOR",
+      "surname": "GINGIU",
+      "name": "GINGIU MARIAN VICTOR",
+      "email": "MARIAN.GINGIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5280,
+      "firstname": "CRISTINA IOANA ADELA",
+      "surname": "CHEVERESAN",
+      "name": "CHEVERESAN CRISTINA IOANA ADELA",
+      "email": "CRISTINA.CHEVERESAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5281,
+      "firstname": "ENIKO ERZSEBET",
+      "surname": "SZUCS",
+      "name": "SZUCS ENIKO ERZSEBET",
+      "email": "ENIKO.SZUCS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5282,
+      "firstname": "MARIOARA NICOLETA",
+      "surname": "FILIMON",
+      "name": "FILIMON MARIOARA NICOLETA",
+      "email": "MARIOARA.FILIMON@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5283,
+      "firstname": "ALVINA DIANA",
+      "surname": "IVANESCU",
+      "name": "IVANESCU ALVINA DIANA",
+      "email": "ALVINA.IVANESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5284,
+      "firstname": "CIPRIAN MIHAI",
+      "surname": "ADAM",
+      "name": "ADAM CIPRIAN MIHAI",
+      "email": "CIPRIAN.ADAM@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5285,
+      "firstname": "ELISABETA",
+      "surname": "ZELINKA",
+      "name": "ZELINKA ELISABETA",
+      "email": "ELISABETA.ZELINKA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5286,
+      "firstname": "MIRCEA",
+      "surname": "ARDELEAN",
+      "name": "ARDELEAN MIRCEA",
+      "email": "MIRCEA.ARDELEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5287,
+      "firstname": "ANA NELI",
+      "surname": "IANAS",
+      "name": "IANAS ANA NELI",
+      "email": "ANA.IANAS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5288,
+      "firstname": "LAURENTIU GABRIEL",
+      "surname": "TIRU",
+      "name": "TIRU LAURENTIU GABRIEL",
+      "email": "LAURENTIU.TIRU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5289,
+      "firstname": "DAN AURELIAN",
+      "surname": "STIRBU",
+      "name": "STIRBU DAN AURELIAN",
+      "email": "DAN.STIRBU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5151,
+        "name": "Contabilitate si Audit",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5290,
+      "firstname": "MECLEJAN FLAMINIA NERA FLAVIA",
+      "surname": "STARC",
+      "name": "STARC MECLEJAN FLAMINIA NERA FLAVIA",
+      "email": "FLAMINIA.STARC@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5178,
+        "name": "Drept Privat",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5291,
+      "firstname": "MARIANA CARMEN",
+      "surname": "STANCIU",
+      "name": "STANCIU MARIANA CARMEN",
+      "email": "MARIANA.STANCIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5292,
+      "firstname": "SILVIA",
+      "surname": "ANGHEL-VLAD",
+      "name": "ANGHEL-VLAD SILVIA",
+      "email": "SILVIA.VLAD@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5293,
+      "firstname": "MIHAELA",
+      "surname": "SANDOR",
+      "name": "SANDOR MIHAELA",
+      "email": "MIHAELA.SANDOR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5294,
+      "firstname": "MIHAI OLIMPIU",
+      "surname": "PAREAN",
+      "name": "PAREAN MIHAI OLIMPIU",
+      "email": "MIHAI.PAREAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5145,
+        "name": "Economie si modelare economica",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5295,
+      "firstname": "GRAZZIELLA LUCIA",
+      "surname": "PREDOIU",
+      "name": "PREDOIU GRAZZIELLA LUCIA",
+      "email": "GRAZZIELLA.PREDOIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5296,
+      "firstname": "OLARIU DANIEL",
+      "surname": "BRINDESCU",
+      "name": "BRINDESCU OLARIU DANIEL",
+      "email": "DANIEL.BRINDESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5297,
+      "firstname": "IOANA CELINA",
+      "surname": "PASCA",
+      "name": "PASCA IOANA CELINA",
+      "email": "IOANA.PASCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5168,
+        "name": "Drept Public",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5298,
+      "firstname": "ADARA MONICA",
+      "surname": "BLAGA",
+      "name": "BLAGA ADARA MONICA",
+      "email": "ADARA.BLAGA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5299,
+      "firstname": "MIHAELA MONICA",
+      "surname": "HUTANU",
+      "name": "HUTANU MIHAELA MONICA",
+      "email": "MONICA.HUTANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5300,
+      "firstname": "ELIZA CLAUDIA",
+      "surname": "FILIMON",
+      "name": "FILIMON ELIZA CLAUDIA",
+      "email": "ELIZA.FILIMON@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5301,
+      "firstname": "CRISTINA ANA",
+      "surname": "BANICERU",
+      "name": "BANICERU CRISTINA ANA",
+      "email": "CRISTINA.BANICERU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5302,
+      "firstname": "GABRIELA",
+      "surname": "TUCAN",
+      "name": "TUCAN GABRIELA",
+      "email": "GABRIELA.TUCAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5303,
+      "firstname": "EUSEBIU-MARCEL",
+      "surname": "NARAI",
+      "name": "NARAI EUSEBIU-MARCEL",
+      "email": "EUSEBIU.NARAI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5304,
+      "firstname": "LUMINITA",
+      "surname": "HURBEAN",
+      "name": "HURBEAN LUMINITA",
+      "email": "LUMINITA.HURBEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5305,
+      "firstname": "RAMONA ELENA",
+      "surname": "TUTUNARU",
+      "name": "TUTUNARU RAMONA ELENA",
+      "email": "RAMONA.TUTUNARU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5167,
+        "name": "Stiinte ale Educatiei",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5306,
+      "firstname": "VICTOR ANDREI MARIUS",
+      "surname": "NEUMANN",
+      "name": "NEUMANN VICTOR ANDREI MARIUS",
+      "email": "VICTOR.NEUMANN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5307,
+      "firstname": "GHAZI LOREDANA",
+      "surname": "AL",
+      "name": "AL GHAZI LOREDANA",
+      "email": "LOREDANA.AL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5167,
+        "name": "Stiinte ale Educatiei",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5308,
+      "firstname": "SILVIU ADRIAN",
+      "surname": "NISU",
+      "name": "NISU SILVIU ADRIAN",
+      "email": "SILVIU.NISU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5309,
+      "firstname": "RADU DUMITRU",
+      "surname": "MOLERIU",
+      "name": "MOLERIU RADU DUMITRU",
+      "email": "RADU.MOLERIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5310,
+      "firstname": "ION VIOREL",
+      "surname": "DOROBANTU",
+      "name": "DOROBANTU ION VIOREL",
+      "email": "ION.DOROBANTU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5311,
+      "firstname": "OVIDIU ALIN",
+      "surname": "DOBRICAN",
+      "name": "DOBRICAN OVIDIU ALIN",
+      "email": "OVIDIU.DOBRICAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5312,
+      "firstname": "ALINA",
+      "surname": "SATMARI",
+      "name": "SATMARI ALINA",
+      "email": "ALINA.SATMARI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5313,
+      "firstname": "SORIN OVIDIU",
+      "surname": "BRINDESCU",
+      "name": "BRINDESCU SORIN OVIDIU",
+      "email": "SORIN.BRINDESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5314,
+      "firstname": "HORIA IOAN",
+      "surname": "POPOVICIU",
+      "name": "POPOVICIU HORIA IOAN",
+      "email": "HORIA.POPOVICIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5315,
+      "firstname": "AURORA",
+      "surname": "MURGEA",
+      "name": "MURGEA AURORA",
+      "email": "AURORA.MURGEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5316,
+      "firstname": "CONSTANTIN VIOREL",
+      "surname": "NEGRUT",
+      "name": "NEGRUT CONSTANTIN VIOREL",
+      "email": "VIOREL.NEGRUT@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5317,
+      "firstname": "NICOLAE",
+      "surname": "HURDUZEU",
+      "name": "HURDUZEU NICOLAE",
+      "email": "NICOLAE.HURDUZEU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5318,
+      "firstname": "CATALINA-ARMANCA",
+      "surname": "ANCUTA",
+      "name": "ANCUTA CATALINA-ARMANCA",
+      "email": "CATALINA.ANCUTA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5319,
+      "firstname": "SIMONA DANIELA GLICHERIA",
+      "surname": "REGEP",
+      "name": "REGEP SIMONA DANIELA GLICHERIA",
+      "email": "SIMONA.REGEP@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5320,
+      "firstname": "STELIAN",
+      "surname": "MIHALAS",
+      "name": "MIHALAS STELIAN",
+      "email": "STELIAN.MIHALAS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5321,
+      "firstname": "DANA MARIA",
+      "surname": "DIACONU",
+      "name": "DIACONU DANA MARIA",
+      "email": "DANA.DIACONU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5168,
+        "name": "Drept Public",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5322,
+      "firstname": "VENERA MARGARETA",
+      "surname": "BUCUR",
+      "name": "BUCUR VENERA MARGARETA",
+      "email": "VENERA.BUCUR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5323,
+      "firstname": "RAZVAN MICU",
+      "surname": "TUDORAN",
+      "name": "TUDORAN RAZVAN MICU",
+      "email": "RAZVAN.TUDORAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5324,
+      "firstname": "LARISA-ELENA",
+      "surname": "BIRIS",
+      "name": "BIRIS LARISA-ELENA",
+      "email": "LARISA.BIRIS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5180,
+        "name": "Matematica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5325,
+      "firstname": "ALEXANDRU",
+      "surname": "POPA",
+      "name": "POPA ALEXANDRU",
+      "email": "ALEXANDRU.POPA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5178,
+        "name": "Drept Privat",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5326,
+      "firstname": "GABRIEL",
+      "surname": "BARDASAN",
+      "name": "BARDASAN GABRIEL",
+      "email": "GABRIEL.BARDASAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5327,
+      "firstname": "RALUCA ARIANNA",
+      "surname": "VILCEANU",
+      "name": "VILCEANU RALUCA ARIANNA",
+      "email": "RALUCA.VILCEANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5328,
+      "firstname": "MIRELA ILEANA",
+      "surname": "BONCEA",
+      "name": "BONCEA MIRELA ILEANA",
+      "email": "MIRELA.BONCEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5329,
+      "firstname": "DOREL ADRIAN",
+      "surname": "COVAN",
+      "name": "COVAN DOREL ADRIAN",
+      "email": "DOREL.COVAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5330,
+      "firstname": "CLAUDIU",
+      "surname": "AVRAM",
+      "name": "AVRAM CLAUDIU",
+      "email": "CLAUDIU.AVRAM@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5154,
+        "name": "Kinetoterapie si Motricitate Speciala",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5331,
+      "firstname": "CIPRIAN PUIU",
+      "surname": "PANZARU",
+      "name": "PANZARU CIPRIAN PUIU",
+      "email": "CIPRIAN.PANZARU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5332,
+      "firstname": "CIPRIAN IOAN",
+      "surname": "OBRAD",
+      "name": "OBRAD CIPRIAN IOAN",
+      "email": "CIPRIAN.OBRAD@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5333,
+      "firstname": "ILEANA SIMONA",
+      "surname": "DABU",
+      "name": "DABU ILEANA SIMONA",
+      "email": "ILEANA.DABU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5334,
+      "firstname": "SIMONA",
+      "surname": "ADAM",
+      "name": "ADAM SIMONA",
+      "email": "SIMONA.ADAM@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5335,
+      "firstname": "COSMINA SIMONA",
+      "surname": "LUNGOCI",
+      "name": "LUNGOCI COSMINA SIMONA",
+      "email": "COSMINA.LUNGOCI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5336,
+      "firstname": "IOANA LOREDANA",
+      "surname": "BANADUC",
+      "name": "BANADUC IOANA LOREDANA",
+      "email": "IOANA.BANADUC@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5337,
+      "firstname": "FLORINA MARIA",
+      "surname": "BACILA",
+      "name": "BACILA FLORINA MARIA",
+      "email": "FLORINA.BACILA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5338,
+      "firstname": "SILVIU EUGEN",
+      "surname": "ROGOBETE",
+      "name": "ROGOBETE SILVIU EUGEN",
+      "email": "SILVIU.ROGOBETE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5153,
+        "name": "Stiinte Politice",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5339,
+      "firstname": "REGHINA",
+      "surname": "DASCAL",
+      "name": "DASCAL REGHINA",
+      "email": "REGHINA.DASCAL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5340,
+      "firstname": "DAN MIHAIL",
+      "surname": "STANCIU",
+      "name": "STANCIU DAN MIHAIL",
+      "email": "DAN.STANCIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5183,
+        "name": "Arte Vizuale",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5341,
+      "firstname": "MARCELA SORINA",
+      "surname": "COSTEA",
+      "name": "COSTEA MARCELA SORINA",
+      "email": "MARCELA.COSTEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5342,
+      "firstname": "CLAUDIA",
+      "surname": "DOICIAR",
+      "name": "DOICIAR CLAUDIA",
+      "email": "CLAUDIA.DOICIAR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5343,
+      "firstname": "SILVIANA-ANA",
+      "surname": "CIRDU",
+      "name": "CIRDU SILVIANA-ANA",
+      "email": "SILVIANA.CIRDU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5344,
+      "firstname": "GABRIELA",
+      "surname": "GLAVAN",
+      "name": "GLAVAN GABRIELA",
+      "email": "GABRIELA.GLAVAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5345,
+      "firstname": "ANDREEA MONICA",
+      "surname": "GHEORGHIU",
+      "name": "GHEORGHIU ANDREEA MONICA",
+      "email": "ANDREEA.GHEORGHIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5346,
+      "firstname": "CRISTINA MANUELA",
+      "surname": "TANASE",
+      "name": "TANASE CRISTINA MANUELA",
+      "email": "CRISTINA.TANASE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5347,
+      "firstname": "CODRUTA MARIA CORNELIA",
+      "surname": "GOSA",
+      "name": "GOSA CODRUTA MARIA CORNELIA",
+      "email": "CODRUTA.GOSA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5348,
+      "firstname": "IRINA DIANA",
+      "surname": "MADROANE",
+      "name": "MADROANE IRINA DIANA",
+      "email": "IRINA.MADROANE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5349,
+      "firstname": "ELENA TIA",
+      "surname": "SANDU",
+      "name": "SANDU ELENA TIA",
+      "email": "ELENA.SANDU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5350,
+      "firstname": "MARTIN PETRU",
+      "surname": "DOMOKOS",
+      "name": "DOMOKOS MARTIN PETRU",
+      "email": "MARTIN.DOMOKOS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5171,
+        "name": "Educatie Fizica si Sportiva",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5351,
+      "firstname": "MARCEL FLORENTIN",
+      "surname": "RASADEAN",
+      "name": "RASADEAN MARCEL FLORENTIN",
+      "email": "MARCEL.RASADEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5154,
+        "name": "Kinetoterapie si Motricitate Speciala",
+        "description": null,
+        "parent": {
+          "id": 5175,
+          "name": "Facultatea de Educatie Fizica si Sport",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5352,
+      "firstname": "PAUL CONSTANTIN",
+      "surname": "BARVINSCHI",
+      "name": "BARVINSCHI PAUL CONSTANTIN",
+      "email": "PAUL.BARVINSCHI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5353,
+      "firstname": "EUGENIA",
+      "surname": "PAULESCU",
+      "name": "PAULESCU EUGENIA",
+      "email": "EUGENIA.PAULESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5354,
+      "firstname": "NICOLETA ADINA",
+      "surname": "STEFU",
+      "name": "STEFU NICOLETA ADINA",
+      "email": "NICOLETA.STEFU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5355,
+      "firstname": "LAURA DIANA",
+      "surname": "PITULICE",
+      "name": "PITULICE LAURA DIANA",
+      "email": "LAURA.PITULICE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5356,
+      "firstname": "IOAN",
+      "surname": "BUS",
+      "name": "BUS IOAN",
+      "email": "IOAN.BUS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5150,
+        "name": "Filosofie si Stiintele Comunicarii",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5357,
+      "firstname": "PATRICIA LUCIANA",
+      "surname": "RUNCAN",
+      "name": "RUNCAN PATRICIA LUCIANA",
+      "email": "PATRICIA.RUNCAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5173,
+        "name": "Asistenta Sociala",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5358,
+      "firstname": "SINZIANA",
+      "surname": "PREDA",
+      "name": "PREDA SINZIANA",
+      "email": "SINZIANA.PREDA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5359,
+      "firstname": "CRISTIAN GABRIEL",
+      "surname": "BIZOI",
+      "name": "BIZOI CRISTIAN GABRIEL",
+      "email": "GABI.BIZOI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5360,
+      "firstname": "ROXANA SORANA",
+      "surname": "ARDELEANU",
+      "name": "ARDELEANU ROXANA SORANA",
+      "email": "ROXANA.ARDELEANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5361,
+      "firstname": "DANIEL",
+      "surname": "LUCHES",
+      "name": "LUCHES DANIEL",
+      "email": "DANIEL.LUCHES@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5362,
+      "firstname": "ILEANA",
+      "surname": "HAUER",
+      "name": "HAUER ILEANA",
+      "email": "ILEANA.HAUER@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5146,
+        "name": "Sisteme Informationale pentru afaceri",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5363,
+      "firstname": "LILIANA ANCA",
+      "surname": "LIGHEZAN",
+      "name": "LIGHEZAN LILIANA ANCA",
+      "email": "LILIANA.LIGHEZAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5147,
+        "name": "Fizica",
+        "description": null,
+        "parent": {
+          "id": 5149,
+          "name": "Facultatea de Fizica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5364,
+      "firstname": "ANDREEA IOANA",
+      "surname": "SERBAN",
+      "name": "SERBAN ANDREEA IOANA",
+      "email": "ANDREEA.SERBAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5365,
+      "firstname": "IOAN",
+      "surname": "POP",
+      "name": "POP IOAN",
+      "email": "IOAN.POP@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5366,
+      "firstname": "CRISTINA DANIELA",
+      "surname": "LAZAR",
+      "name": "LAZAR CRISTINA DANIELA",
+      "email": "CRISTINA.LAZAR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5367,
+      "firstname": "SORINA",
+      "surname": "SERBANESCU",
+      "name": "SERBANESCU SORINA",
+      "email": "SORINA.SERBANESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5368,
+      "firstname": "LUCIAN DANIEL",
+      "surname": "DRAGUT",
+      "name": "DRAGUT LUCIAN DANIEL",
+      "email": "LUCIAN.DRAGUT@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5369,
+      "firstname": "OTILIA-SANDA",
+      "surname": "BERSAN",
+      "name": "BERSAN OTILIA-SANDA",
+      "email": "OTILIA.BERSAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5167,
+        "name": "Stiinte ale Educatiei",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5370,
+      "firstname": "GLORIA",
+      "surname": "GRATI",
+      "name": "GRATI GLORIA",
+      "email": "GLORIA.GRATI@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5371,
+      "firstname": "SORIN",
+      "surname": "VREME",
+      "name": "VREME SORIN",
+      "email": "SORIN.VREME@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5160,
+        "name": "Design si Arte Aplicate",
+        "description": null,
+        "parent": {
+          "id": 5161,
+          "name": "Facultatea de Arte si Design",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5372,
+      "firstname": "IONEL",
+      "surname": "MOS",
+      "name": "MOS IONEL",
+      "email": "IONEL.MOS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5167,
+        "name": "Stiinte ale Educatiei",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5373,
+      "firstname": "VASILE",
+      "surname": "DOCEA",
+      "name": "DOCEA VASILE",
+      "email": "VASILE.DOCEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5153,
+        "name": "Stiinte Politice",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5374,
+      "firstname": "KARLA MARIANA",
+      "surname": "LUPSAN",
+      "name": "LUPSAN KARLA MARIANA",
+      "email": "KARLA.LUPSAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5375,
+      "firstname": "DANA FELICIA",
+      "surname": "GAVRELIUC",
+      "name": "GAVRELIUC DANA FELICIA",
+      "email": "DANA.GAVRELIUC@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5376,
+      "firstname": "ALIN CRISTIAN",
+      "surname": "SCRIDON",
+      "name": "SCRIDON ALIN CRISTIAN",
+      "email": "ALIN.SCRIDON@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5377,
+      "firstname": "BOGDAN",
+      "surname": "VECHE",
+      "name": "VECHE BOGDAN",
+      "email": "BOGDAN.VECHE@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5378,
+      "firstname": "TAMARA",
+      "surname": "PETROVA",
+      "name": "PETROVA TAMARA",
+      "email": "TAMARA.PETROVA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5150,
+        "name": "Filosofie si Stiintele Comunicarii",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5379,
+      "firstname": "OROS BEATRICE ANNAMARIA",
+      "surname": "VLAD",
+      "name": "VLAD OROS BEATRICE ANNAMARIA",
+      "email": "BEATRICE.VLAD@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5380,
+      "firstname": "MALITA RAMONA",
+      "surname": "TANC",
+      "name": "TANC MALITA RAMONA",
+      "email": "RAMONA.MALITA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5381,
+      "firstname": "LUCIAN",
+      "surname": "PARVULESCU",
+      "name": "PARVULESCU LUCIAN",
+      "email": "LUCIAN.PARVULESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5158,
+        "name": "Biologie-Chimie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5382,
+      "firstname": "PETRU-SILVIU",
+      "surname": "VACARESCU",
+      "name": "VACARESCU PETRU-SILVIU",
+      "email": "SILVIU.VACARESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5383,
+      "firstname": "MARC EDUARD",
+      "surname": "FRINCU",
+      "name": "FRINCU MARC EDUARD",
+      "email": "MARC.FRINCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5384,
+      "firstname": "OANA RAMONA",
+      "surname": "LOBONT",
+      "name": "LOBONT OANA RAMONA",
+      "email": "OANA.LOBONT@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5385,
+      "firstname": "CIOCIANU EMANUEL",
+      "surname": "COPILAS",
+      "name": "COPILAS CIOCIANU EMANUEL",
+      "email": "EMANUEL.COPILAS@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5153,
+        "name": "Stiinte Politice",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5386,
+      "firstname": "FLORINA MINODORA",
+      "surname": "ARDELEAN",
+      "name": "ARDELEAN FLORINA MINODORA",
+      "email": "FLORINA.ARDELEAN@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5387,
+      "firstname": "MIRUNA LUCIA",
+      "surname": "NACHESCU",
+      "name": "NACHESCU MIRUNA LUCIA",
+      "email": "MIRUNA.NACHESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5388,
+      "firstname": "ANCA RALUCA",
+      "surname": "MAGHETIU",
+      "name": "MAGHETIU ANCA RALUCA",
+      "email": "ANCA.MAGHETIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5389,
+      "firstname": "CLAUDIA VASILICA",
+      "surname": "BORCA",
+      "name": "BORCA CLAUDIA VASILICA",
+      "email": "CLAUDIA.BORCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5167,
+        "name": "Stiinte ale Educatiei",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5390,
+      "firstname": "RODICA GABRIELA",
+      "surname": "BLIDISEL",
+      "name": "BLIDISEL RODICA GABRIELA",
+      "email": "RODICA.BLIDISEL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5151,
+        "name": "Contabilitate si Audit",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5391,
+      "firstname": "CIPRIAN PETRISOR",
+      "surname": "PUNGILA",
+      "name": "PUNGILA CIPRIAN PETRISOR",
+      "email": "CIPRIAN.PUNGILA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5392,
+      "firstname": "CRISTINA",
+      "surname": "MINDRUTA",
+      "name": "MINDRUTA CRISTINA",
+      "email": "CRISTINA.MINDRUTA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5393,
+      "firstname": "ALEXANDRU OCTAVIAN",
+      "surname": "CRASNEAC",
+      "name": "CRASNEAC ALEXANDRU OCTAVIAN",
+      "email": "ALEXANDRU.CRASNEAC@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5156,
+        "name": "Finante",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5394,
+      "firstname": "ROMANITA ADINA DELIA",
+      "surname": "JUMANCA",
+      "name": "JUMANCA ROMANITA ADINA DELIA",
+      "email": "ROMANITA.JUMANCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5395,
+      "firstname": "POP ANA MARIA",
+      "surname": "RADU",
+      "name": "RADU POP ANA MARIA",
+      "email": "ANA.POP@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5164,
+        "name": "Studii Romanesti",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5396,
+      "firstname": "MARIA ILEANA",
+      "surname": "STANGA",
+      "name": "STANGA MARIA ILEANA",
+      "email": "MARIA.STANGA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5397,
+      "firstname": "EMOKE SZIDONIA",
+      "surname": "FEDER",
+      "name": "FEDER EMOKE SZIDONIA",
+      "email": "EMOKE.FEDER@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5398,
+      "firstname": "ANDREEA-MIHAELA",
+      "surname": "DUNCA",
+      "name": "DUNCA ANDREEA-MIHAELA",
+      "email": "ANDREEA.DUNCA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5399,
+      "firstname": "DIANA CORINA",
+      "surname": "GLIGOR-CIMPOIERU",
+      "name": "GLIGOR-CIMPOIERU DIANA CORINA",
+      "email": "DIANA.GLIGOR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5400,
+      "firstname": "ADINA RENATE",
+      "surname": "MOTICA",
+      "name": "MOTICA ADINA RENATE",
+      "email": "ADINA.MOTICA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5178,
+        "name": "Drept Privat",
+        "description": null,
+        "parent": {
+          "id": 5179,
+          "name": "Facultatea de Drept",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5401,
+      "firstname": "IOANA DELIA",
+      "surname": "NADOLU",
+      "name": "NADOLU IOANA DELIA",
+      "email": "DELIA.NADOLU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5181,
+        "name": "Sociologie",
+        "description": null,
+        "parent": {
+          "id": 5172,
+          "name": "Facultatea de Sociologie si Psihologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5402,
+      "firstname": "IULIA MIHAELA",
+      "surname": "COSMA",
+      "name": "COSMA IULIA MIHAELA",
+      "email": "IULIA.COSMA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5403,
+      "firstname": "GABRIEL",
+      "surname": "MALANCIOIU",
+      "name": "MALANCIOIU GABRIEL",
+      "email": "GABRIEL.MALANCIOIU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5162,
+        "name": "Muzica- Actorie",
+        "description": null,
+        "parent": {
+          "id": 5165,
+          "name": "Facultatea de Muzica SI Teatru",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5404,
+      "firstname": "ANCA-CRISTINA",
+      "surname": "DRAGOMIR",
+      "name": "DRAGOMIR ANCA-CRISTINA",
+      "email": "ANCA.DRAGOMIR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5405,
+      "firstname": "NEAMTIU STEFANA OANA",
+      "surname": "CIORTEA",
+      "name": "CIORTEA NEAMTIU STEFANA OANA",
+      "email": "STEFANA.CIORTEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5150,
+        "name": "Filosofie si Stiintele Comunicarii",
+        "description": null,
+        "parent": {
+          "id": 5166,
+          "name": "Facultatea de St. Politice Filosofie si St. ale Comunicarii",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5406,
+      "firstname": "ANDRA",
+      "surname": "MICULESCU",
+      "name": "MICULESCU ANDRA",
+      "email": "ANDRA.MICULESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5145,
+        "name": "Economie si modelare economica",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5407,
+      "firstname": "IOAN SEBASTIAN",
+      "surname": "JUCU",
+      "name": "JUCU IOAN SEBASTIAN",
+      "email": "IOAN.JUCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5144,
+        "name": "Geografie",
+        "description": null,
+        "parent": {
+          "id": 5157,
+          "name": "Facultatea de Chimie, Biologie, Geografie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5408,
+      "firstname": "MARIA",
+      "surname": "NICULESCU",
+      "name": "NICULESCU MARIA",
+      "email": "MARIA.NICULESCU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5409,
+      "firstname": "GEORGIANA FLORINA",
+      "surname": "LOLEA",
+      "name": "LOLEA GEORGIANA FLORINA",
+      "email": "GEORGIANA.LOLEA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5152,
+        "name": "Limbi si literaturi moderne",
+        "description": null,
+        "parent": {
+          "id": 5182,
+          "name": "Facultatea de Litere, Istorie si Teologie",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5410,
+      "firstname": "MARIA DANIELA",
+      "surname": "OTIL",
+      "name": "OTIL MARIA DANIELA",
+      "email": "MARIA.OTIL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5145,
+        "name": "Economie si modelare economica",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5411,
+      "firstname": " DARIUS",
+      "surname": "BOROVIC",
+      "name": "BOROVIC  DARIUS",
+      "email": "DARIUS.BOROVIC@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5163,
+        "name": "DPPD",
+        "description": null,
+        "parent": {
+          "id": 5177,
+          "name": "Departamentul pt. Pregatire a Personalului Didactic",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5412,
+      "firstname": "IULIA",
+      "surname": "PARA",
+      "name": "PARA IULIA",
+      "email": "IULIA.PARA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5413,
+      "firstname": "MIHAIL",
+      "surname": "GAIANU",
+      "name": "GAIANU MIHAIL",
+      "email": "MIHAIL.GAIANU@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5414,
+      "firstname": "MARIAN",
+      "surname": "NEAGUL",
+      "name": "NEAGUL MARIAN",
+      "email": "MARIAN.NEAGUL@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 1,
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": 5159,
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5415,
+      "firstname": "RAZVAN DORIN",
+      "surname": "BURZ",
+      "name": "BURZ RAZVAN DORIN",
+      "email": "RAZVAN.BURZ@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5416,
+      "firstname": "GHEORGHE",
+      "surname": "PREDA",
+      "name": "PREDA GHEORGHE",
+      "email": "GHEORGHE.PREDA@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5155,
+        "name": "Marketing si relatii economice internationale",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": 5417,
+      "firstname": "DELIA ANCA GABRIELA",
+      "surname": "GLIGOR",
+      "name": "GLIGOR DELIA ANCA GABRIELA",
+      "email": "DELIA.GLIGOR@E-UVT.RO",
+      "urlGoogleScholar": null,
+      "department": {
+        "id": 5169,
+        "name": "Management",
+        "description": null,
+        "parent": {
+          "id": 5143,
+          "name": "Facultatea de Economie si Administrare a Afacerilor",
+          "description": null,
+          "parent": null
+        }
+      },
+      "domain": null,
+      "domainId": null,
+      "permissions": 1,
+      "status": 1
+    },
+    {
+      "id": "555",
+      "firstname": "Adela",
+      "surname": "Albu",
+      "name": "ALBU ADELA",
+      "email": "ADELA@E-UVT.RO",
+      "urlGoogleScholar": "abc123",
+      "domain": "Informatica",
+      "domainId": "1",
+      "permissions": "3",
+      "status": "1",
+      "department": {
+        "id": "5147",
+        "name": "Informatica",
+        "description": null,
+        "parent": {
+          "id": "5157",
+          "name": "Facultatea de Matematica si Informatica",
+          "description": null,
+          "parent": null
+        }
+      }
+    }
+  ]
+}
