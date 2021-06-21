@@ -48,8 +48,8 @@ function matches(user: User, term: string, pipe: PipeTransform): any {
   providedIn: "root",
 })
 export class UserService {
-  
-  private apiUrl = "http://localhost:3000";
+
+  private apiUrl = "http://77.81.246.11:3000";
 
   private _search$ = new Subject<void>();
   private _loading$ = new Subject<boolean>();
@@ -96,7 +96,7 @@ export class UserService {
     this._search$.next();
   }
 
-  
+
   public checkIfUserExists() {
         return this.getAll();
      }
@@ -107,7 +107,7 @@ export class UserService {
     });
     this._search$.next();
   }
-  
+
   public getUsersFromDepartment(name: string): void {
     this.getAll().subscribe((data: User[]) => {
       this.users = [];
@@ -213,14 +213,14 @@ export class UserService {
 
   public userToBeEditedSubject = new BehaviorSubject<User>(new User(0,'','','','','','',0,0,0, new Department(0, '',null, new Department(0,'',null,null))));
   public getUserById(userId: number) {
-    
+
     this.http.get(this.apiUrl+'/users', {params: new HttpParams().set('id', userId+'')})
       .pipe(map(res => {
         return res[0];
       }))
       .subscribe(user => {
         this.userToBeEditedSubject.next(user);
-        
+
       });
   }
 }
